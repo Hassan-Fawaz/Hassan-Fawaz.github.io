@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer in the domain of telecommunications. I got my engineering degree in Electrical Engineering (Option: Telecommunications) in 2015 from the Lebanese Univerisity in Beirut, Lebanon. 
+Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer in the domain of telecommunications. I got my engineering degree in Electrical and Electronic Engineering (Section: Computer and Communications) in 2015 from the Lebanese Univerisity in Beirut, Lebanon. I got my M2 degree in Telecom Networks and Security in 2016 jointly from Saint Joseph University of Beirut and the Faculty of Engineering at the Lebanese University. Afterwards, I started my Ph,D. in the domain of full-duplex wireless communications which I successfully defended at the end of 2019. In 2020, I was a post-doc researcher at the University of Versailles, France with my work revolving around the Internet-of-Things and LoRa networks. Since the end of 2020, I have been working as research enginner at Telecom SudParis, Palaiseau, France.
 
 A data-driven personal website
 ======
