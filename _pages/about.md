@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer in the domain of telecommunications. I got my engineering degree in Electrical and Electronic Engineering (Section: Computer and Communications) in 2015 from the Lebanese Univerisity in Beirut, Lebanon. I got my M2 degree in Telecom Networks and Security in 2016 jointly from Saint Joseph University of Beirut and the Faculty of Engineering at the Lebanese University. Afterwards, I started my Ph,D. in the domain of full-duplex wireless communications which I successfully defended at the end of 2019. In 2020, I was a post-doc researcher at the University of Versailles, France with my work revolving around the Internet-of-Things and LoRa networks. Since the end of 2020, I have been working as research enginner at Telecom SudParis, Palaiseau, France.
+Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer in the domain of telecommunications. I obtained my engineering degree in Electrical and Electronic Engineering (Section: Computer and Communications) in 2015 from the Lebanese University in Beirut, Lebanon. I earned my M2 degree in Telecom Networks and Security in 2016 jointly from Saint Joseph University of Beirut and the Faculty of Engineering at the Lebanese University. Afterwards, I embarked on my Ph.D. in the domain of full-duplex wireless communications, which I successfully defended at the end of 2019. In 2020, I served as a post-doctoral researcher at the University of Versailles, France, focusing on the Internet-of-Things and LoRa networks. Since the end of 2020, I have been working as a research engineer at Telecom SudParis, Palaiseau, France.
 
 Diploma in Electrical and Electronic Engingeering
 ======
@@ -16,16 +16,17 @@ In 2015, I received my Engineering diploma from the Lebanese University in Beiru
 
 M2 Telecom Networks and Security
 ======
-After receiving my Engineering Diploma in 2015, I received my M2 in Telecom Networks and Security in 2016 from the faculty of engineering (ESIB) at Saint Joseph University of Beirut. My master's thesis research work revolved around scheduling in full-duplex wireless networks. I studied different propositions of full duplex network implementations, and proposed multiple algorithms for scheduling in full-duplex OFDMA networks. The work was implemented in a Matlab-based simulator and focused on Monte Carlo methods to assess performance. Parts of this work was published at the ISCC 2017 conference under the title "Max-SINR Scheduling in FD-OFDMA Cellular Networks with Dynamic Arrivals".
+After receiving my Engineering Diploma in 2015, I obtained my M2 in Telecom Networks and Security in 2016 from the Faculty of Engineering (ESIB) at Saint Joseph University of Beirut. My master's thesis research revolved around scheduling in full-duplex wireless networks. I studied different propositions of full duplex network implementations and proposed multiple algorithms for scheduling in full-duplex OFDMA networks. The work was implemented in a Matlab-based simulator and focused on Monte Carlo methods to assess performance. Parts of this work were published at the ISCC 2017 conference under the title "Max-SINR Scheduling in FD-OFDMA Cellular Networks with Dynamic Arrivals".
 
 
 Ph.D. in Wireless Communications 
 ======
-At the end of 2016, I was awarded a Doctoral Fellowship from National Council for Scientific Research – Lebanon (CNRS-L). 
+At the end of 2016, I was awarded a Doctoral Fellowship from the National Council for Scientific Research – Lebanon (CNRS-L). Over the following three years, I continued my research in the domain of full-duplex wireless networks. I worked on both scheduling and power allocation approaches, in both single and multi-cell scenarios. In my thesis work, we addressed several issues such as user fairness, spectral efficiency, CSI availability, and many others. I utilized multiple research tools throughout my work including machine learning, replicator dynamics, optimization, and game theory.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+
+Postdoc at Université de Versailles Saint-Quentin-en-Yvelines
+======
+Immediately after defending my thesis, I started a one-year postdoctoral fellowship at UVSQ, Paris-Saclay, France. My research during this period centered around Internet of Things (IoT) networks. We began by proposing spreading factor assignment algorithms for LoRaWAN in a multi-operator environment. We utilized recurrent neural networks, specifically LSTMs, to model the packet delivery rate as a time series. The latter aids in reducing the amount of cooperation required among different network operators. In my current work, we are employing game theory and correlated equilibrium to allocate the available channels in a LoRaWAN among competing operators.
 
 Create content & metadata
 ------
