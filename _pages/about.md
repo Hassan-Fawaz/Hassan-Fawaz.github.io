@@ -9,20 +9,19 @@ redirect_from:
 
 Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer in the domain of telecommunications. I got my engineering degree in Electrical and Electronic Engineering (Section: Computer and Communications) in 2015 from the Lebanese Univerisity in Beirut, Lebanon. I got my M2 degree in Telecom Networks and Security in 2016 jointly from Saint Joseph University of Beirut and the Faculty of Engineering at the Lebanese University. Afterwards, I started my Ph,D. in the domain of full-duplex wireless communications which I successfully defended at the end of 2019. In 2020, I was a post-doc researcher at the University of Versailles, France with my work revolving around the Internet-of-Things and LoRa networks. Since the end of 2020, I have been working as research enginner at Telecom SudParis, Palaiseau, France.
 
+Diploma in Electrical and Electronic Engingeering
+======
+In 2015, I received my Engineering diploma from the Lebanese University in Beirut. The degree was in Electrical and Electronic Engineering with focus on Telecommunications. My final year project revolved around direction of arrival estimation for smart antennas in a multi-path environment. A Matlab-based simulator for different state-of-the-art proposals was developed and the viability of different methods with respect to the simulated enviroment was discussed.
+
+
 M2 Telecom Networks and Security
 ======
-After receiving my Engineering Diploma in 2015, I received my M2 in Telecom Networks and Security in 2016 from the faculty of engineering (ESIB) at Saint Joseph University of Beirut. My master's thesis research work revolved around scheduling in full-duplex wireless networks.
+After receiving my Engineering Diploma in 2015, I received my M2 in Telecom Networks and Security in 2016 from the faculty of engineering (ESIB) at Saint Joseph University of Beirut. My master's thesis research work revolved around scheduling in full-duplex wireless networks. I studied different propositions of full duplex network implementations, and proposed multiple algorithms for scheduling in full-duplex OFDMA networks. The work was implemented in a Matlab-based simulator and focused on Monte Carlo methods to assess performance. Parts of this work was published at the ISCC 2017 conference under the title "Max-SINR Scheduling in FD-OFDMA Cellular Networks with Dynamic Arrivals".
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
+Ph.D. in Wireless Communications 
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+At the end of 2016, I was awarded a Doctoral Fellowship from National Council for Scientific Research – Lebanon (CNRS-L). 
 
 Site-wide configuration
 ------
