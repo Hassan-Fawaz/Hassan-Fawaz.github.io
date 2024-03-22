@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Scheduling and Power Allocation in Full-Duplex Wireless Networks"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://hal-usj.archives-ouvertes.fr/tel-03133975v1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2019-11-13
+venue: ''
+paperurl: 'https://hal-usj.archives-ouvertes.fr/tel-03133975v1'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is my Thesis Dissertation. My thesis work revolved around proposing scheduling and power allocation algorithms for full-duplex wireless networks. We utlized multiple tools such as optimization, heuristics, game theory, and machine learning and considered different scenarios from single-cell to multi-cell deployements.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/thesis.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
