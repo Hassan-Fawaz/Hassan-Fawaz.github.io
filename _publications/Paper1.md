@@ -9,5 +9,5 @@ paperurl: 'https://hal-usj.archives-ouvertes.fr/tel-03133975v1'
 ---
 This is my Thesis Dissertation. My thesis work revolved around proposing scheduling and power allocation algorithms for full-duplex wireless networks. We utlized multiple tools such as optimization, heuristics, game theory, and machine learning and considered different scenarios from single-cell to multi-cell deployements.
 
-[Download paper here](http://academicpages.github.io/files/thesis.pdf)
+[Download paper here](https://hassan-fawaz.github.io/files/thesis.pdf)
 

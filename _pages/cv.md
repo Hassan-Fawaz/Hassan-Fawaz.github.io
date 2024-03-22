@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV [Here](http://academicpages.github.io/files/cv.pdf)
+You can download my CV [Here](https://hassan-fawaz.github.io/files/cv.pdf)
