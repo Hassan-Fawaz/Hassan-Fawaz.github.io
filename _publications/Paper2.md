@@ -1,15 +1,39 @@
 ---
-title: "Paper Title Number 2"
+title: "Non-Cooperative Edge Server Selection Game for Federated Learning in IoT"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'In this work, we utilize non-cooperative game theory to model the edge server selection problem.'
+date: 2024
+venue: 'Non-Cooperative Edge Server Selection Game for Federated Learning in IoT'
+#paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+<div style="text-align: justify;">
+Computational offloading is an efficient way to help
+constrained IoT devices by performing heavy tasks on Edge
+servers, especially tasks related to Machine Learning. Moreover,
+due to their limited learning capacity and memory size, such
+devices can only store a limited amount of data as a training
+set for their learning. Consequently, learning prediction is bound
+to be smeared with relatively high error. To mend that issue,
+IoT devices can federate the learning process with their pairs
+via an Edge server. However, offloading repeatedly the learning
+model through a wireless access network is time consuming.
+Hence, although learning collectively can reduce the learned
+model variance, it inflicts a communication cost depending on
+the selected Edge server. Therefore, in this paper, we model
+the Edge Selection problem as a non-cooperative game where
+devices autonomously and efficiently select an Edge server to
+reduce both their learning error and their communication cost.
+Depending on the characteristics of the dataset, we discern two
+different types of games. For each game type, we implemented and
+compared a semi-distributed algorithm based on Best Response
+dynamics. We compared the obtained results with the optimal
+centralized approach and with a less computationally intensive
+meta-heuristics, to assess the price of anarchy. Our numerical
+analysis shows that the Best Response algorithm strikes a good
+balance between efficiency and swift convergence.
+</div>
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://hassan-fawaz.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
