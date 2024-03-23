@@ -3,7 +3,7 @@ title: "Non-Cooperative Edge Server Selection Game for Federated Learning in IoT
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this work, we utilize non-cooperative game theory to model the edge server selection problem.'
-date: 2024
+date: 2024-05-10
 venue: 'Non-Cooperative Edge Server Selection Game for Federated Learning in IoT'
 paperurl: 'https://hassan-fawaz.github.io/files/paper2.pdf'
 ---
@@ -33,6 +33,5 @@ meta-heuristics, to assess the price of anarchy. Our numerical
 analysis shows that the Best Response algorithm strikes a good
 balance between efficiency and swift convergence.
 </div>
-
 [Download paper here](https://hassan-fawaz.github.io/files/paper2.pdf)
 
