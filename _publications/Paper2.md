@@ -33,5 +33,6 @@ meta-heuristics, to assess the price of anarchy. Our numerical
 analysis shows that the Best Response algorithm strikes a good
 balance between efficiency and swift convergence.
 </div>
+<br>
 [Download paper here](https://hassan-fawaz.github.io/files/paper2.pdf)
 
