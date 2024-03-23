@@ -32,7 +32,7 @@ Ph.D. in Wireless Communications
 <div style="text-align: justify;">
 At the end of 2016, I was awarded a Doctoral Fellowship from the National Council for Scientific Research – Lebanon (CNRS-L). Over the following three years, I continued my research in the domain of full-duplex wireless networks. I worked on both scheduling and power allocation approaches, in both single and multi-cell scenarios. In my thesis work, we addressed several issues such as user fairness, spectral efficiency, CSI availability, and many others. I utilized multiple research tools throughout my work including machine learning, replicator dynamics, optimization, and game theory.
 </div>
-
+<br>
 Postdoc at Université de Versailles Saint-Quentin-en-Yvelines - Paris Saclay
 ======
 <div style="text-align: justify;">
