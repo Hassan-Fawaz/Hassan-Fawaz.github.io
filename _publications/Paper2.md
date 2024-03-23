@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this work, we utilize non-cooperative game theory to model the edge server selection problem.'
 date: 2024-05-10
-venue: 'Non-Cooperative Edge Server Selection Game for Federated Learning in IoT'
+venue: 'IEEE Network Operations and Management Symposium (NOMS 2024)'
 paperurl: 'https://hassan-fawaz.github.io/files/paper2.pdf'
 ---
 <div style="text-align: justify;">
