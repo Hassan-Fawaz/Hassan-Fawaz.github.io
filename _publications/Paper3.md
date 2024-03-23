@@ -1,12 +1,12 @@
 ---
 title: "Graph Convolutional Reinforcement Learning for Collaborative Queuing Agents"
 collection: publications
-#permalink: /publication/2015-10-01-paper-title-number-3
+permalink: https://ieeexplore.ieee.org/document/9969933
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2023
 venue: 'IEEE Transactions on Network and Service Management (IEEE TNSM)'
 paperurl: 'https://ieeexplore.ieee.org/document/9969933'
-#citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+
 ---
 <div style="text-align: justify;">
 This paper explores the use of multi-agent deep
@@ -29,4 +29,4 @@ with respect to a classic priority queuing approach
 </div>
 [Download paper here](https://hassan-fawaz.github.io/files/paper3.pdf)
 
-#Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+
