@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-# Hassan Fawaz, Research Engineer
+
+<div style="text-align: justify;">
 
 Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer specializing in the domain of telecommunications. Here's a brief overview of my academic and professional journey:
 
@@ -34,4 +35,5 @@ Following the completion of my Ph.D., I embarked on a one-year postdoctoral fell
 ### Research Engineer at Télécom SudParis - IP Paris
 
 Since the end of 2020, I have been working as a research engineer at Télécom SudParis, Palaiseau, France. Initially, my work revolved around proposing multi-agent deep learning-based solutions for load balancing and queue management in networks. Currently, I am involved in projects related to 5G New Radio systems, leveraging ns3-based Lena NR module and state-of-the-art 5G emulators such as Open5gs and UERANSIM.
+</div>
 
