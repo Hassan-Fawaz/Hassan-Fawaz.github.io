@@ -1,12 +1,12 @@
 ---
 permalink: /
-title: "Hassan Fawaz, Research Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# Hassan Fawaz, Research Engineer
 
 <div style="text-align: justify;">
 Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer specializing in the domain of telecommunications. Here's a brief overview of my academic and professional journey:
