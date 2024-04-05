@@ -11,7 +11,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}-->
 
-## Teaching Experience
+## Teaching Qualifications and Experiences
+
+- 61-Génie informatique, automatique et traitement du signal
+- 27-Informatique
 
 ### Université Saint-Joseph de Beyrouth, Faculty of Engineering (ESIB) - 2016 to 2019
 
