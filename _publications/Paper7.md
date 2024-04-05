@@ -2,7 +2,7 @@
 title: "A reinforcement learning approach to queue-aware scheduling in full-duplex wireless networks"
 collection: publications
 permalink: https://www.sciencedirect.com/science/article/pii/S1389128621000578
-excerpt: 'In this work, we proposed a reinforcement learning algorithm to allocate radio resource in full-duplex wireless networks.'
+excerpt: 'In this work, we proposed a reinforcement learning algorithm to allocate radio resources in full-duplex wireless networks.'
 date: 2021-04-22
 venue: 'Elsevier Computer Networks'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1389128621000578'

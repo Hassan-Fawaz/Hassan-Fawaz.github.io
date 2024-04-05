@@ -2,7 +2,7 @@
 title: "Cooperation for Spreading Factor Assignment in a Multioperator LoRaWAN Deployment"
 collection: publications
 permalink: https://ieeexplore.ieee.org/document/9226528
-excerpt: 'In this journal we present multiple proposals for spreading factor assignment in a multi-operator LoRa deployment.'
+excerpt: 'In this journal, we present multiple proposals for spreading factor assignment in a multi-operator LoRa deployment.'
 date: 2020-10-06
 venue: 'IEEE Internet of Things Journal'
 paperurl: 'https://ieeexplore.ieee.org/document/9226528'

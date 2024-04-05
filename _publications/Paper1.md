@@ -2,7 +2,7 @@
 title: "Scheduling and Power Allocation in Full-Duplex Wireless Networks"
 collection: publications
 permalink: https://hal-usj.archives-ouvertes.fr/tel-03133975v1
-excerpt: 'My thesis work focused on proposing resource allocation algorithms for full-duplex wireless networks.'
+excerpt: 'My thesis work, presented here, focused on proposing resource allocation algorithms for full-duplex wireless networks.'
 date: 2019-11-13
 venue: ''
 paperurl: 'https://hal-usj.archives-ouvertes.fr/tel-03133975v1'

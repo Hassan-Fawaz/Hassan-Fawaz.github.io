@@ -2,7 +2,7 @@
 title: "Graph Convolutional Reinforcement Learning for Collaborative Queuing Agents"
 collection: publications
 permalink: https://ieeexplore.ieee.org/document/9969933
-excerpt: 'This paper explores the use of multi-agent deep learning as well as learning to cooperate principles to meet strict service level agreements.'
+excerpt: 'This paper explores the use of multi-agent deep learning, as well as learning to cooperate principles, to meet strict service level agreements.'
 date: 2023-06-02
 venue: 'IEEE Transactions on Network and Service Management (IEEE TNSM)'
 paperurl: 'https://ieeexplore.ieee.org/document/9969933'
