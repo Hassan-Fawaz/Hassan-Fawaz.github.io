@@ -24,15 +24,15 @@ Orcid ID: 0000-0002-0149-7878
 ### Education and Research
 
 #### Academic Qualifications
-- Lebanese University Beirut  
+- Lebanese University, Beirut  
   Diploma in Electrical and Communication Engineering, with distinction. 2015
-- Saint Joseph University Beirut  
+- Saint Joseph University, Beirut  
   Masters in Telecom, Networks, and Security, with high distinction. 2016
 - Saint Joseph University Beirut  
   Ph.D., Topic: Scheduling and Power Allocation in Full-Duplex Wireless Networks. 2019
-- Université Paris-Saclay, UVSQ Versailles  
+- Université Paris-Saclay (UVSQ), Versailles  
   PostDoc at Li-Parad, Topic: LoRa, LoRaWAN, Spreading Factor and Channel Assignment. 2019-2020
-- Télécom SudParis - IMT Palaiseau  
+- Télécom SudParis - IP Paris, Palaiseau  
   Research Engineer, Topics: MA Machine Learning, Software-Defined Networks, 5G. 2020-Current
 
 #### Notable Projects
