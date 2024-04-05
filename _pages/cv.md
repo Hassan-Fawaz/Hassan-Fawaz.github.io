@@ -11,7 +11,7 @@ redirect_from:
 
 You can download my detailed CV [Here](https://hassan-fawaz.github.io/files/CV.pdf)
 
-Vous pouvez trouver une version détaillée de mon CV [Ici](https://hassan-fawaz.github.io/files/CVfr.pdf)
+Vous pouvez trouver une version détaillée de mon CV en français [Ici](https://hassan-fawaz.github.io/files/CVfr.pdf)
 
 # Hassan Fawaz — Curriculum Vitae
 Saint-Cloud, Île-de-France, France – 92210  
