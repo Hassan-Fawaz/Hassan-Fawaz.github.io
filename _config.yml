@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hassan Fawaz, Ph.D. - Research Engineer"
+title                    : "Hassan Fawaz, Ph.D."
 title_separator          : "-"
 name                     : &name "Hassan Fawaz"
 description              : &description "Research Engineer"
