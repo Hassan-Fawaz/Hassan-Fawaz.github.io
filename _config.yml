@@ -7,9 +7,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hassan Fawaz, Ph.D."
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Hassan Fawaz"
+name                     : &name "Hassan Fawaz, Ph.D."
 description              : &description "Research Engineer"
 url                      : https://Hassan-Fawaz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
