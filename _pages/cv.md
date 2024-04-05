@@ -23,15 +23,15 @@ Orcid ID: 0000-0002-0149-7878
 
 #### Academic Qualifications
 - Lebanese University Beirut  
-  Diploma in Electrical and Communication Engineering, with distinction 2015
+  Diploma in Electrical and Communication Engineering, with distinction. 2015
 - Saint Joseph University Beirut  
-  Masters in Telecom, Networks, and Security, with high distinction 2016
+  Masters in Telecom, Networks, and Security, with high distinction. 2016
 - Saint Joseph University Beirut  
-  Ph.D., Topic: Scheduling and Power Allocation in Full-Duplex Wireless Networks 2019
+  Ph.D., Topic: Scheduling and Power Allocation in Full-Duplex Wireless Networks. 2019
 - Université Paris-Saclay, UVSQ Versailles  
-  PostDoc at Li-Parad, Topic: LoRa, LoRaWAN, Spreading Factor and Channel Assignment 2019-2020
+  PostDoc at Li-Parad, Topic: LoRa, LoRaWAN, Spreading Factor and Channel Assignment. 2019-2020
 - Télécom SudParis - IMT Palaiseau  
-  Research Engineer, Topics: MA Machine Learning, Software-Defined Networks, 5G 2020-Current
+  Research Engineer, Topics: MA Machine Learning, Software-Defined Networks, 5G. 2020-Current
 
 #### Notable Projects
 - Final Year Project 'Direction of Arrival Estimation for Smart Antennas in a Multi-path Environment'
@@ -45,11 +45,6 @@ Orcid ID: 0000-0002-0149-7878
 - **CISCO Certificates:** CISCO CCNA 1 V4.1, Network Fundamentals, CISCO CCNA 2 V5.0 Routing and Switching, CISCO CCNA 3 V5.0 Routing and Switching: Scaling networks.
 - **Doctoral Fellowship Program 2016:** Awarded a research grant from the Lebanese National Council for Scientific Research (CNRS-L).
 - **Languages:** Fluent in Arabic and English, (B1-B2) level in French.
-
-### References
-- Kinda Khawam: PostDoc Supervisor, Associate Professor at UVSQ, Versailles, at [kinda.khawam@uvsq.fr](mailto:kinda.khawam@uvsq.fr)
-- Samer Lahoud: Thesis Supervisor, Associate Professor at Dalhousie University at [sml@dal.ca](mailto:sml@dal.ca)
-- Steven Martin: Collaborator, Professeur des universités, Université Paris-Saclay at [steven.martin@lri.fr](mailto:steven.martin@lri.fr)
 
 ### Previous Employment
 - Saint Joseph University Beirut  
