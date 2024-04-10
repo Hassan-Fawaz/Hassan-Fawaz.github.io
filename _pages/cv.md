@@ -6,7 +6,15 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGZVV6WLNF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DGZVV6WLNF');
+</script>
 {% include base_path %}
 
 You can download my detailed CV [Here](https://hassan-fawaz.github.io/files/CV.pdf)

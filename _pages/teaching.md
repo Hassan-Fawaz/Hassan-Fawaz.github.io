@@ -4,7 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGZVV6WLNF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DGZVV6WLNF');
+</script>
 <!--{% include base_path %}
 
 {% for post in site.teaching reversed %}

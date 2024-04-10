@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGZVV6WLNF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-DGZVV6WLNF');
+</script>
 
 <div style="text-align: justify;">
 Hello and welcome to my personal website. My name is Hassan Fawaz. I am a research engineer specializing in the domain of telecommunications. Here's a brief overview of my academic and professional journey:
