@@ -10,7 +10,7 @@ author_profile: true
 # Under Construction 🚧
 
 <!----![Under Construction](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)--->
-<img src="Hassan-Fawaz.github.io/images/racoon.gif" alt="Under Construction" width="498" height="498">
+<img src="../Hassan-Fawaz.github.io/images/racoon.gif" alt="Under Construction" width="498" height="498">
 
 
 ## Oops! This Page is Still Under Construction
