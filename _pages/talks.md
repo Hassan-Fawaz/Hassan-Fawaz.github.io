@@ -10,7 +10,8 @@ author_profile: true
 # Under Construction 🚧
 
 <!----![Under Construction](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)--->
-<iframe src="https://giphy.com/embed/ZJPSFNLmADueHvzoZ8" width="457" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/party-raccoon-racoon-ZJPSFNLmADueHvzoZ8">via GIPHY</a></p>
+![Under Construction](images/racoon.gif)
+
 ## Oops! This Page is Still Under Construction
 
 ### We're working hard to bring you something awesome. Please check back later!
