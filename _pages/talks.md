@@ -10,7 +10,8 @@ author_profile: true
 # Under Construction 🚧
 
 <!----![Under Construction](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)--->
-![Under Construction](images/racoon.gif)
+<img src="racoon.gif" alt="Under Construction" width="498" height="498">
+
 
 ## Oops! This Page is Still Under Construction
 
