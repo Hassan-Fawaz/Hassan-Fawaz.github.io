@@ -1,11 +1,11 @@
 ---
 title: "Non-Cooperative Edge Server Selection Game for Federated Learning in IoT"
 collection: publications
-permalink: https://hassan-fawaz.github.io
+permalink: https://ieeexplore.ieee.org/document
 excerpt: 'In this work, we utilize non-cooperative game theory to model the edge server selection problem.'
 date: 2024-05-10
 venue: 'IEEE Network Operations and Management Symposium (NOMS 2024)'
-paperurl: 'https://hassan-fawaz.github.io'
+paperurl: 'https://ieeexplore.ieee.org/document'
 ---
 <div style="text-align: justify;">
 Computational offloading is an efficient way to help
