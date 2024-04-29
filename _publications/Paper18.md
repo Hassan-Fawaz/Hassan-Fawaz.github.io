@@ -1,11 +1,11 @@
 ---
 title: "Edge Selection Non-Cooperative Game in IoT Edge Computing"
 collection: publications
-permalink:  https://ieeexplore.ieee.org/document
+permalink:  https://ieeexplore.ieee.org/document2
 excerpt: 'In this paper, we propose a Non-Cooperative game where devices autonomously and efficiently select an Edge server in order to reduce both their learning error and communication cost.'
 date: 2024-09-08
 venue: 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) '
-paperurl: 'https://ieeexplore.ieee.org/document'
+paperurl: 'https://ieeexplore.ieee.org/document2'
 ---
 <div style="text-align: justify;">
 Computational offloading is a pivotal solution to
