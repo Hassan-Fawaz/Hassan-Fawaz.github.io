@@ -4,7 +4,7 @@ collection: publications
 permalink: https://hassan-fawaz.github.io/files/paper18.pdf
 excerpt: 'In this paper, we propose a Non-Cooperative game where devices autonomously and efficiently select an Edge server in order to reduce both their learning error and communication cost.'
 date: 2024-09-08
-venue: ''
+venue: 'IEEE PIMRC'
 paperurl: 'https://hassan-fawaz.github.io/files/paper18.pdf'
 ---
 <div style="text-align: justify;">
