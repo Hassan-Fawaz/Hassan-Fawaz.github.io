@@ -38,7 +38,7 @@ Following my undergraduate studies, I pursued my M2 degree in Telecom Networks a
 
 ### Ph.D. in Wireless Communications
 <div style="text-align: justify;">
-At the end of 2016, I was awarded a Doctoral Fellowship from the National Council for Scientific Research – Lebanon (CNRS-L), embarking on a journey to delve deeper into the realm of full-duplex wireless networks. Over the course of three years, my research addressed several critical issues in the domain, including user fairness, spectral efficiency, and CSI availability.
+At the end of 2016, I was awarded a Doctoral Fellowship from the National Council for Scientific Research – Lebanon (CNRS-L). As such, I continued my research on full-duplex wireless networks. Over the course of three years, my research addressed several critical issues in the domain, including user fairness, spectral efficiency, and CSI availability.
 </div>
 
 ## Professional Experience
