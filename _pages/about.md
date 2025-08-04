@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hassan Fawaz, Research Engineer"
+title: "Hassan Fawaz, 5G Software Architect"
 author_profile: true
 redirect_from: 
   - /about/
