@@ -52,6 +52,11 @@ Following the completion of my Ph.D., I embarked on a one-year postdoctoral fell
 
 ### Research Engineer at Télécom SudParis - IP Paris
 <div style="text-align: justify;">
-Since the end of 2020, I have been working as a research engineer at Télécom SudParis, Palaiseau, France. Initially, my work revolved around proposing multi-agent deep learning-based solutions for load balancing and queue management in networks. Currently, I am involved in projects related to 5G New Radio systems, leveraging ns3-based Lena NR module and state-of-the-art 5G emulators such as Open5gs and UERANSIM.
+Since the end of 2020 and until August of 2024, I worked as a research engineer at Télécom SudParis, Palaiseau, France. Initially, my work revolved around proposing multi-agent deep learning-based solutions for load balancing and queue management in networks. Afterwards, I was involved in projects related to 5G New Radio systems, leveraging ns3-based Lena NR module and state-of-the-art 5G emulators such as Open5gs and UERANSIM.
+</div>
+
+### Ground Segment Engineer at UNIVITY - Paris
+<div style="text-align: justify;">
+In August 2024 I joinred Univity, a company whose objective is building the next-generation space infrastructure to provide high-speed, low-latency connectivity worldwide. I joined Univity as 5G Software Architect and Ground Segment Engineer, working on the company's various demonstration programs. My working topics include Univity's 5G core network and RAN, ground segment definition and validation, system security, and others.
 </div>
 
