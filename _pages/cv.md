@@ -64,6 +64,6 @@ Orcid ID: 0000-0002-0149-7878
   General Course Assistant March - December 2019
 - UVSQ - Paris Saclay Versailles  
   PostDoc Researcher December 2019 - October 2020
-- IP Paris - Telecom SudParis
+- IP Paris - Telecom SudParis   
   Research Engineer Novemeber 2020 - August 2024
 
