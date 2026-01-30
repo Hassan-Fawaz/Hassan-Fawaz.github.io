@@ -26,7 +26,7 @@ Courbevoie, Île-de-France, France – 92210
 [hassan1fawaz@gmail.com](mailto:hassan1fawaz@gmail.com) — [hassan.fawaz@univity.global](mailto:hassan.fawaz@univity.global)  
 Orcid ID: 0000-0002-0149-7878
 
-## Research Engineer at Télécom SudParis - IP Paris since 15/10/2020
+## Ground Segment Engineer and 5G Software Architect at UNIVITY - Paris since September 2024
 
 ### Education and Research
 
@@ -53,7 +53,7 @@ Orcid ID: 0000-0002-0149-7878
 - **Programming Languages:** Proficient in: Matlab, Python, C, C++. Familiar with: Java, SQL.
 - **CISCO Certificates:** CISCO CCNA 1 V4.1, Network Fundamentals, CISCO CCNA 2 V5.0 Routing and Switching, CISCO CCNA 3 V5.0 Routing and Switching: Scaling networks.
 - **Doctoral Fellowship Program 2016:** Awarded a research grant from the Lebanese National Council for Scientific Research (CNRS-L).
-- **Languages:** Fluent in Arabic and English, (B1-B2) level in French.
+- **Languages:** Fluent in Arabic and English, B2 level in French.
 
 ### Previous Employment
 - Saint Joseph University Beirut  
@@ -64,4 +64,6 @@ Orcid ID: 0000-0002-0149-7878
   General Course Assistant March - December 2019
 - UVSQ - Paris Saclay Versailles  
   PostDoc Researcher December 2019 - October 2020
+- IP Paris - Telecom SudParis
+  Research Engineer Novemeber 2020 - August 2024
 
