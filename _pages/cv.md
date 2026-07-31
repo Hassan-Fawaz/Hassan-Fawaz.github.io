@@ -22,7 +22,7 @@ You can download my detailed CV [Here](https://hassan-fawaz.github.io/files/CV.p
 Vous pouvez trouver une version détaillée de mon CV en français [Ici](https://hassan-fawaz.github.io/files/CVfr.pdf)
 
 # Hassan Fawaz — Curriculum Vitae
-Courbevoie, Île-de-France, France – 92210    
+Courbevoie, Île-de-France, France – 92400
 [hassan1fawaz@gmail.com](mailto:hassan1fawaz@gmail.com) — [hassan.fawaz@univity.global](mailto:hassan.fawaz@univity.global)  
 Orcid ID: 0000-0002-0149-7878
 
