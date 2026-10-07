@@ -1,9 +1,9 @@
 ---
 title: "Queue-Aware Scheduling in Full Duplex OFDMA Wireless Networks with Imperfect Channel State Information"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8385522
 excerpt: 'The impact of imperfect channel state information on scheduling in full-duplex networks is discussed in this paper.'
 date: 2018-05-02
+topics: ["Full-Duplex"]
 venue: 'European Wireless 2018'
 paperurl: 'https://ieeexplore.ieee.org/document/8385522'
 ---

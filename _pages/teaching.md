@@ -4,20 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGZVV6WLNF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-DGZVV6WLNF');
-</script>
-<!--{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}-->
+{% include base_path %}
 
 ## Teaching Qualifications and Experiences
 
@@ -38,5 +26,6 @@ During my years as a PhD. student, I taught the following courses at the Faculty
 
 ### More Recently
 
+<div style="text-align: justify;">
 I have also been instructing a part of the course "Virtual Networks" for FIPA 2nd year students at Telecom SudParis and Master students at Telecom Paris. This section of the course introduces students to SD-WAN networks, Docker, Kubernetes, and incorporates lab work.
-
+</div>

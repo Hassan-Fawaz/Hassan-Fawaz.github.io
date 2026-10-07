@@ -1,9 +1,9 @@
 ---
 title: "A Queue-Aware Discrete Scheduling Simulator for Full-Duplex OFDMA Wireless Networks"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8460235
 excerpt: 'The basis of the Matlab based simulator which we built and used during my thesis work is introduced in this work.'
 date: 2018-08-25
+topics: ["Full-Duplex"]
 venue: 'International Conference on Computer and Applications (ICCA)'
 paperurl: 'https://ieeexplore.ieee.org/document/8460235'
 ---

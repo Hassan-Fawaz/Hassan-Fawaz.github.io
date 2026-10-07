@@ -1,9 +1,9 @@
 ---
 title: "Graph Convolutional Reinforcement Learning for Load Balancing and Smart Queuing"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/10186430
 excerpt: 'In this work, we utilize multi-agent deep reinforcement learning to jointly tackle load balancing and queue management in networks.'
 date: 2023-06-12
+topics: ["Machine Learning"]
 venue: 'IFIP Networking Conference (IFIP Networking)'
 paperurl: 'https://ieeexplore.ieee.org/document/10186430'
 ---

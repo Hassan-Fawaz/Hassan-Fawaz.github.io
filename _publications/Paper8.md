@@ -1,9 +1,9 @@
 ---
 title: "Deep reinforcement learning for smart queue management"
 collection: publications
-permalink: https://hal.science/hal-03546621
 excerpt: 'In this paper, we propose a deep Q-learning algorithm to manage queues in networks.'
 date: 2021-09-08
+topics: ["Machine Learning"]
 venue: 'NetSys 2021, MaLeNe Workshop'
 paperurl: 'https://hal.science/hal-03546621'
 ---

@@ -1,9 +1,10 @@
 ---
 title: "Non-Cooperative Edge Server Selection Game for Federated Learning in IoT"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/10575406
 excerpt: 'In this work, we utilize non-cooperative game theory to model the edge server selection problem.'
 date: 2024-05-10
+topics: ["Edge Computing", "Game Theory"]
+featured: true
 venue: 'IEEE Network Operations and Management Symposium (NOMS 2024)'
 paperurl: 'https://ieeexplore.ieee.org/document/10575406'
 ---

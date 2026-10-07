@@ -1,9 +1,10 @@
 ---
 title: "Queue-Aware Resource Allocation in Full-Duplex Multi-Cellular Wireless Networks"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/10158674
 excerpt: 'In this work, we propose scheduling and power allocation algorithms for full-duplex multi-cellular networks.'
 date: 2023-06-21
+topics: ["Full-Duplex"]
+featured: true
 venue: 'IEEE Journal on Selected Areas in Communications (JSAC)'
 paperurl: 'https://ieeexplore.ieee.org/document/10158674'
 ---

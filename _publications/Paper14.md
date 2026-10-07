@@ -1,9 +1,9 @@
 ---
 title: "Optimal Max-SINR scheduling in full-duplex OFDMA cellular networks with dynamic arrivals"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8361720
 excerpt: 'Optimization based approaches to resource block allocation in full-duplex wireless networks are presented in this work.'
 date: 2018-05-21
+topics: ["Full-Duplex"]
 venue: 'IFIP Wireless Days'
 paperurl: 'https://ieeexplore.ieee.org/document/8361720'
 ---

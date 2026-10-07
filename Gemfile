@@ -16,7 +16,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm" if Gem.win_platform? # not needed for one-shot local preview
+gem "tzinfo-data" if Gem.win_platform? # Windows lacks /usr/share/zoneinfo
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

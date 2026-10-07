@@ -1,9 +1,9 @@
 ---
 title: "Max-SINR scheduling in Full-Duplex OFDMA cellular networks with dynamic arrivals"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8024577
 excerpt: 'In this work, we propose a greedy SINR-based scheduling algorithm for full-duplex wireless networks.'
 date: 2017-07-03
+topics: ["Full-Duplex"]
 venue: '2017 IEEE Symposium on Computers and Communications (ISCC)'
 paperurl: 'https://ieeexplore.ieee.org/document/8024577'
 ---

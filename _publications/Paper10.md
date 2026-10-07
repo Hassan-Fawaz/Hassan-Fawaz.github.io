@@ -1,9 +1,10 @@
 ---
 title: "Queue-aware scheduling in full-duplex wireless networks"
 collection: publications
-permalink: https://link.springer.com/article/10.1007/s11276-020-02308-0
 excerpt: 'In this journal publication, we go over our different proposals for scheduling in full-duplex wireless networks.'
 date: 2020-03-19
+topics: ["Full-Duplex"]
+featured: true
 venue: 'Springer Wireless Networks'
 paperurl: 'https://link.springer.com/article/10.1007/s11276-020-02308-0'
 ---

@@ -1,9 +1,9 @@
 ---
 title: "A Game Theoretic Framework for Power Allocation in Full-Duplex Wireless Networks"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8920029
 excerpt: 'A general game-theory based framework is proposed for the power allocation problem in full-duplex wireless networks.'
 date: 2019-12-03
+topics: ["Full-Duplex", "Game Theory"]
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/document/8920029'
 ---

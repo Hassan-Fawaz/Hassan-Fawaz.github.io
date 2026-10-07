@@ -5,32 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
 
+A selection of research and engineering projects I have worked on, from my current role in the space industry back to my Ph.D. and engineering studies.
 
-# Under Construction 🚧
+{% assign projects = site.talks | sort: "order" %}
+{% for post in projects %}
+  {% include archive-single.html %}
+{% endfor %}
 
-![Under Construction](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-## Oops! This Page is Still Under Construction
-
-### We're working hard to bring you something awesome. Please check back later!
-
-In the meantime, feel free to explore the other sections of my website.
-
-Thank you for your patience! 🙏
-
-
-
-
-
-
-
-<!--{% if site.talkmap_link == true %}
-
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
-{% endif %}
-
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}-->

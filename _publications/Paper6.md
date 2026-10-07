@@ -1,9 +1,9 @@
 ---
 title: "A channel selection game for multi-operator LoRaWAN deployments"
 collection: publications
-permalink: https://www.sciencedirect.com/science/article/pii/S1389128622002821
 excerpt: 'This journal proposes a game theory based solution for channel selection in LoRa deployments.'
 date: 2022-11-24
+topics: ["LoRaWAN", "Game Theory"]
 venue: 'Elsevier Computer Networks'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S1389128622002821'
 ---

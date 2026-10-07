@@ -6,15 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGZVV6WLNF"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-DGZVV6WLNF');
-</script>
 {% include base_path %}
 
 You can download my detailed CV [Here](https://hassan-fawaz.github.io/files/CV.pdf)
@@ -26,7 +17,7 @@ Courbevoie, Île-de-France, France – 92400
 [hassan1fawaz@gmail.com](mailto:hassan1fawaz@gmail.com) — [hassan.fawaz@univity.global](mailto:hassan.fawaz@univity.global)  
 Orcid ID: 0000-0002-0149-7878
 
-## Ground Segment Engineer and 5G Software Architect at UNIVITY - Paris since September 2024
+## Ground Segment Engineer and 5G Software Architect at UNIVITY - Paris since 2024
 
 ### Education and Research
 
@@ -65,5 +56,5 @@ Orcid ID: 0000-0002-0149-7878
 - UVSQ - Paris Saclay Versailles  
   PostDoc Researcher December 2019 - October 2020
 - IP Paris - Telecom SudParis   
-  Research Engineer Novemeber 2020 - August 2024
+  Research Engineer November 2020 - August 2024
 

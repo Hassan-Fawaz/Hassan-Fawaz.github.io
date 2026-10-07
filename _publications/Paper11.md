@@ -1,9 +1,9 @@
 ---
 title: "A Game Theoretic Approach for Power Allocation in Full Duplex Wireless Networks"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8904134
 excerpt: 'In this work, non-cooperative game theory is used to propose a power allocation algorithm in full-duplex wireless networks.'
 date: 2019-09-08
+topics: ["Full-Duplex", "Game Theory"]
 venue: '2019 IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)'
 paperurl: 'https://ieeexplore.ieee.org/document/8904134'
 ---

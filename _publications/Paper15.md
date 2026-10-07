@@ -1,9 +1,9 @@
 ---
 title: "Queue-Aware Priority Based Scheduling and Power Allocation in Full-Duplex OFDMA Cellular Networks"
 collection: publications
-permalink: https://ieeexplore.ieee.org/document/8464919
 excerpt: 'In this work, we address the power allocation problem in full-duplex cellular networks.'
 date: 2018-06-26
+topics: ["Full-Duplex"]
 venue: '2018 25th International Conference on Telecommunications (ICT)'
 paperurl: 'https://ieeexplore.ieee.org/document/8464919'
 ---
