@@ -11,6 +11,6 @@ paperurl: 'https://ieeexplore.ieee.org/document/8460235'
 With the promise of doubling a wireless network's capacity, researchers on full-duplex wireless networks need to address multiple issues such as user equipment pairing, power control, and the availability of channel state information. In this paper, we propose a discrete simulator for scheduling and power allocation proposals in full-duplex orthogonal frequency division multiple access networks. Our simulator is queue-aware and adaptable to different scheduling objectives. It enables varying the path-loss model, user distribution, noise conditions, and throughput demands. Additionally, it permits the calculation of packet level performance metrics such as the waiting delay.
 </div>
 <br>
-[Download paper here](https://hassan-fawaz.github.io/files/paper13.pdf)
+[Download paper here](/files/paper13.pdf)
 
 

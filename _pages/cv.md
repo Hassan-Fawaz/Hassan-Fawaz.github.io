@@ -8,9 +8,9 @@ redirect_from:
 ---
 {% include base_path %}
 
-You can download my detailed CV [Here](https://hassan-fawaz.github.io/files/CV.pdf)
+You can download my detailed CV [Here](/files/CV.pdf)
 
-Vous pouvez trouver une version détaillée de mon CV en français [Ici](https://hassan-fawaz.github.io/files/CVfr.pdf)
+Vous pouvez trouver une version détaillée de mon CV en français [Ici](/files/CVfr.pdf)
 
 # Hassan Fawaz — Curriculum Vitae
 Courbevoie, Île-de-France, France – 92400

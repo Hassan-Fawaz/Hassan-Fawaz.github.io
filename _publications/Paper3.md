@@ -27,6 +27,6 @@ and reducing the SLA violations of the latter by nearly 60 %,
 with respect to a classic priority queuing approach.
 </div>
 <br>
-[Download paper here](https://hassan-fawaz.github.io/files/paper3.pdf)
+[Download paper here](/files/paper3.pdf)
 
 

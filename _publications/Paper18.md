@@ -28,5 +28,5 @@ in order to reduce both their learning error and communication
 cost.
 </div>
 <br>
-[Download paper here](https://hassan-fawaz.github.io/files/paper18.pdf)
+[Download paper here](/files/paper18.pdf)
 

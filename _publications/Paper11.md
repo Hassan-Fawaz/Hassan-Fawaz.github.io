@@ -11,6 +11,6 @@ paperurl: 'https://ieeexplore.ieee.org/document/8904134'
 The benefits of full-duplex wireless communications, specifically with respect to their half-duplex counterparts, are now well under examination. As a result, research into the corresponding scheduling and power allocation algorithms has thrived. In this paper, we propose a non-cooperative game theoretic algorithm for power allocation in full-duplex orthogonal frequency division multiple access networks. The game is played between user equipment on the uplink, and the base station on the downlink. The objective of the game is two-fold: maximizing the signal-to-noise-plus-interference ratio, while hindering the harmful interferences resulting from full-duplex operation. We prove that our game is super-modular. For such a game, a best response algorithm is capable of attaining a Nash equilibrium. We simulate our proposal along with a fairness based scheduling algorithm and show that it improves user equipment throughput and reduces the waiting delay.
 </div>
 <br>
-[Download paper here](https://hassan-fawaz.github.io/files/paper11.pdf)
+[Download paper here](/files/paper11.pdf)
 
 
